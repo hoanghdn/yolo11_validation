@@ -1,0 +1,5 @@
+# Ignore the test_frame pictures directory
+test_frames/
+
+# Ignore video files (adjust extension if needed)
+*.mp4
