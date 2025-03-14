@@ -5,4 +5,4 @@ test_frames/
 *.mp4
 
 # Ignore the runs/detect directory
-runs/detect/
+yolo11_validation/runs
