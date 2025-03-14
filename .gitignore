@@ -3,3 +3,6 @@ test_frames/
 
 # Ignore video files (adjust extension if needed)
 *.mp4
+
+# Ignore the yolo runs directory
+runs/
